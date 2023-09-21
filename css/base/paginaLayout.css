@@ -1,0 +1,21 @@
+@import url('./reset.css');
+@import url('./variaveis.css');
+
+.pagina{
+    background-color: var(--fundoPadrao);
+    color: var(--branco);
+    font-family: var(--fontePadrao);
+    max-width: 480px; 
+    
+    padding: 10px;
+}
+
+.subPagina {
+    background-color: var(--laranja);
+    max-width: 460px;
+    margin: 0 auto;
+    border: 2px solid var(--branco);
+    border-radius: 8px;
+    height: 150px;
+
+}

@@ -1,0 +1,16 @@
+:root {  
+    --fundoPadrao: #0C0C0C;
+    --branco: #fff;
+    --laranja: #F4A460;
+    
+    --fontePadrao: 'Poppins', sans-serif;
+    --fonteTitulo: 'Patua One', cursive;
+    --fonteProduto: 'Comfortaa', cursive; 
+}
+
+
+/*
+   font-family: 'Comfortaa', cursive;
+    font-family: 'Patua One', cursive;
+    font-family: 'Poppins', sans-serif;
+*/
