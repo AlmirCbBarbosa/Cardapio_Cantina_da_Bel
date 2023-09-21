@@ -1,0 +1,9 @@
+.rodape {
+    text-align: center;
+}
+
+.rodape__mensagem {
+    font-family: var(--fonteTitulo);
+    color: var(--laranja);
+    font-size: var(--fonteTitulo2);
+}

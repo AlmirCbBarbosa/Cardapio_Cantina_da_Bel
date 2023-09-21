@@ -1,0 +1,9 @@
+.logo {
+    background: url('../../imagens/logo.png');
+    background-color:var(--branco);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    height: 160px;
+    width: 150px;
+}

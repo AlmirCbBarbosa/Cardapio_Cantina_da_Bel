@@ -1,0 +1,53 @@
+.produto {
+    font-family: inherit; 
+    font-size: var(--fonteTamanhoNormal)   ;
+    display: flex;
+    flex-direction: column;     
+    width: 100%;
+}
+
+.produto__secao {
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+}
+
+.produto__secaoTitulo {
+    align-items:first baseline;
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+
+.produto__secaoNome{
+    color: var(--laranja);
+    font-family: var(--fonteTitulo);
+    font-size: var(--fonteTitulo2);
+}
+
+.produto__secaoImagem {
+    background-color: var(--preto);
+    height: 48px;
+    width: 60px;
+}
+
+.produto__lista {
+    font-family: var(--fonteProduto);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.produto__item {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+    width: 100%;
+}
+
+.produto__itemLinha {
+    background-color: var(--branco);
+    width: 50%;
+    height: 2px;
+}

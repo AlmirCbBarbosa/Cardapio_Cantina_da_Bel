@@ -2,10 +2,14 @@
     --fundoPadrao: #0C0C0C;
     --branco: #fff;
     --laranja: #F4A460;
+    --vermelho: #FF3131;
     
     --fontePadrao: 'Poppins', sans-serif;
     --fonteTitulo: 'Patua One', cursive;
-    --fonteProduto: 'Comfortaa', cursive; 
+    --fonteProduto: 'Comfortaa', cursive;
+    
+    --fonteTamanhoNormal: 12px;
+    --fonteTitulo2: 28px;
 }
 
 

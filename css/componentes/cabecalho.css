@@ -1,0 +1,22 @@
+.cabecalho{
+    font-family: var(--fonteProduto);
+    font-size: var(--fonteTamanhoNormal);
+}
+
+.cabecalho__logo {
+    margin: 10px auto;
+}
+
+.cabecalho__listaNavegacao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;    
+}
+
+.cabecalho__ancora {
+    color: var(--branco);
+}
+
+
+
